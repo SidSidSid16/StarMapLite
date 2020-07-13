@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: eb7cef4b618554ce7a9c6c64198f9250
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CMU Typewriter Text Variable Width
+  fontNames:
+  - CMU Typewriter Text Variable Width
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f56ef9fdcaa8f43f594fc8bb89a9cade, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
